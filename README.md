@@ -25,7 +25,7 @@ E também:
 "Authorization": "Bearer Coloque_sua_chave_aqui"  
 Pela sua chave da API da Groq.  
 
-Exemplo de uso
+📍 Exemplo de uso
 
 Digite algo como:
 Quadrado vermelho girando
